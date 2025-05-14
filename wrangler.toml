@@ -1,0 +1,6 @@
+name = "finar-capital"
+compatibility_date = "2025-05-14"
+
+[[pages]]
+name = "finar-capital"
+path = "./"  # Указывает на корневую папку
